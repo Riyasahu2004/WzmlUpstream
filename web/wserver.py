@@ -620,13 +620,13 @@ section span{
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/DhruvMirrorUpdates">
+        <a href="https://t.me/AJxMirror_Leech_bot_01">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://www.t.me/DhruvMirrorPremium"><i class="fab fa-telegram"></i></a>
-        <a href="https://t.me/DhruvMIrrorUpdates"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/AJxMirror_Leech_bot_01"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/AJxMirror_Leech_bot_01"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -834,8 +834,8 @@ def homepage():
         <h1>Dhruv Mirror</h1>
     </div>
     <div class="content">
-        <img src="https://graph.org/file/f206aac77f17da18c43e1.jpg" class="image">
-        <a href="https://telegram.me/DhruvMirrorUpdates" style="text-decoration: none;">
+        <img src="https://graph.org/file/9c1c28bbe0b5e0bac188c.jpg" class="image">
+        <a href="https://t.me/AJxMirror_Leech_bot_01" style="text-decoration: none;">
             <button class="button">Join Updates Channel Now</button>
         </a>
     </div>
