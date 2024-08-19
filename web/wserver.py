@@ -831,7 +831,7 @@ def homepage():
 </head>
 <body>
     <div class="header">
-        <h1>Dhruv Mirror</h1>
+        <h1>AJxMirror</h1>
     </div>
     <div class="content">
         <img src="https://graph.org/file/9c1c28bbe0b5e0bac188c.jpg" class="image">
@@ -840,7 +840,7 @@ def homepage():
         </a>
     </div>
     <div class="footer">
-© 2022-23 Dhruv Mirror. All Rights Reserved.
+© 2023-24 AJxMirror. All Rights Reserved.
     </div>
 </body>
 </html>
